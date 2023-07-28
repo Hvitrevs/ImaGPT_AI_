@@ -26,10 +26,11 @@ ImaGPT is more than just an app; it can be used as a vibrant artistic community 
 Viewing on desktop
 
 <img src="https://github.com/Hvitrevs/ImaGPT_AI_/assets/134542496/d69e1fe9-5f0d-46d1-89bc-53a4683b81bc" alt="alt text" width="900">
+<img src="https://github.com/Hvitrevs/ImaGPT_AI_/assets/134542496/e3fdcff9-d3d0-4d6c-8bc5-b20a69a96688" alt="alt text" width="900">
+
 
 Viewing on tablet
 
-<img src="https://github.com/Hvitrevs/ImaGPT_AI_/assets/134542496/e3fdcff9-d3d0-4d6c-8bc5-b20a69a96688" alt="alt text" width="800">
 <img src="https://github.com/Hvitrevs/ImaGPT_AI_/assets/134542496/4c44cf5c-1e9a-48ca-9387-438adc817788" alt="alt text" width="600">
 <img src="https://github.com/Hvitrevs/ImaGPT_AI_/assets/134542496/dc93e7c3-0111-4fd9-9307-af8b1534f753" alt="alt text" width="600">
 <img src="https://github.com/Hvitrevs/ImaGPT_AI_/assets/134542496/8056788d-883f-4a85-b478-9110d2deeef8" alt="alt text" width="600">
