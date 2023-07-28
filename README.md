@@ -47,12 +47,13 @@ Viewing on tablet
 
 </p>
 
-<p> Utilizes: API
+<p aling = "left"> Utilizes: API
 <img src="https://github.com/adrianhajdin/project_ai_mern_image_generation/blob/main/client/src/assets/logo.svg" alt="javascript" width="60" height="15"/>
-</p>
-
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
 <img src="https://vitejs.dev/logo.svg" alt="javascript" width="40" height="40"/>
+</p>
+
+ 
 
 Cloudinary storage
 
