@@ -1,4 +1,4 @@
-# ImaGPT Sample
+# ImaGPT 
 
 
 ## Description
