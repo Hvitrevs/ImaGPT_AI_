@@ -58,6 +58,7 @@ Server: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icon
 Cloudinary storage
 
 ## Usage 
-
+In order to use this app you will have to add your own credentials for OpenAI since their API is not free anymore.
+Get your private API key, then add .env file to your server folder with your mongoDB password and Cloudinary credentials as well. Everything else will fork out of the box.
 
 ## Questions
