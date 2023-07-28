@@ -19,9 +19,24 @@ ImaGPT is more than just an app; it can be used as a vibrant artistic community 
 🌈 Step into the world of ImaGPT today and immerse yourself in a universe of endless artistic possibilities. Try it now and discover the joy of creating visually stunning images, mesmerizing drawings, and everything in between. Embrace the art within you with ImaGPT – your masterpiece awaits! 🎨
 
 ## Screenshots
+<details>
 
-//add screenshots here
+Viewing on desktop
 
+
+<img src="https://github.com/Hvitrevs/ImaGPT_AI_/assets/134542496/d69e1fe9-5f0d-46d1-89bc-53a4683b81bc" alt="alt text" width="900">
+
+
+Viewing on tablet
+
+<img src="https://github.com/Hvitrevs/ImaGPT_AI_/assets/134542496/dc93e7c3-0111-4fd9-9307-af8b1534f753" alt="alt text" width="400">
+
+Viewing on smartphone
+
+<img src="https://github.com/Hvitrevs/Weather-app-/assets/134542496/22d95d1e-671b-4c3d-828b-19eda47ac2e1" alt="alt text" width="200">
+
+
+</details>
 
 ## Languages and tools
 <p aling = "left">
