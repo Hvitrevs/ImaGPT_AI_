@@ -67,11 +67,14 @@ Get your private API key, then add .env file to your server folder with your mon
 Data to add to your .env file:
 
 ```
+
 OPENAI_API_KEY=" here goes your secret key"
-MONGODB_URL=" here goes your database and password cluster"
+
 CLOUDINARY_CLOUD_NAME=" here goes your cloud name you created for this app"
 CLOUDINARY_API_KEY=" paste your key here"
 CLOUDINARY_API_SECRET=" and your secret as well "
+
+MONGODB_URL=" here goes your database and password cluster"
 
 ```
 ## Questions
