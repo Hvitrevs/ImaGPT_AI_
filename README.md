@@ -71,7 +71,9 @@ Data to add to your .env file:
 OPENAI_API_KEY=" here goes your secret key"
 
 CLOUDINARY_CLOUD_NAME=" here goes your cloud name you created for this app"
+
 CLOUDINARY_API_KEY=" paste your key here"
+
 CLOUDINARY_API_SECRET=" and your secret as well "
 
 MONGODB_URL=" here goes your database and password cluster"
