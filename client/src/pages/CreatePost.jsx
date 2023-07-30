@@ -124,7 +124,7 @@ const CreatePost = () => {
                 type='submit'
                 className='font-inter font-bold bg-[#202333] hover:bg-[#73fff6] border border-[#572f4b] text-[#c961bf] hover:text-[#025853] text-sm tracking-[.07rem] px-2 py-2 rounded-2xl shadow hover:shadow-[#73fff6] border hover:border-[#73fff6]' 
               >
-                {loading ? 'Saving' : 'Save to library'}
+                {loading ? 'Saving' : 'Save'}
               </button>
             </div>
 
