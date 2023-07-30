@@ -3,9 +3,9 @@ import mongoose from 'mongoose';
 const connectDB = (url) => {
   mongoose.set('strictQuery', true);
   mongoose.connect(url)
-    .then(() => console.log('home server is connected to mongoDB'))
+    .then(() => console.log('Home server is connected to MongoDB'))
     .catch((err) => {
-      console.error('failed to connect with mongoDB');
+      console.error('Home server has failed to connect with MongoDB');
       console.error(err);
     });
 };
